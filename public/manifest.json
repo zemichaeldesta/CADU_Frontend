@@ -1,0 +1,25 @@
+{
+  "short_name": "Cadu-Ardu",
+  "name": "Cadu-Ardu Family and Friends Association",
+  "icons": [
+    {
+      "src": "cadu.png",
+      "type": "image/png",
+      "sizes": "any"
+    },
+    {
+      "src": "cadu.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "cadu.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#27ae60",
+  "background_color": "#ffffff"
+}
