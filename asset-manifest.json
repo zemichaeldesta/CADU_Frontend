@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CADU_Frontend/static/css/main.845a687b.css",
-    "main.js": "/CADU_Frontend/static/js/main.e6174775.js",
-    "static/js/453.8701dc61.chunk.js": "/CADU_Frontend/static/js/453.8701dc61.chunk.js",
-    "index.html": "/CADU_Frontend/index.html",
-    "main.845a687b.css.map": "/CADU_Frontend/static/css/main.845a687b.css.map",
-    "main.e6174775.js.map": "/CADU_Frontend/static/js/main.e6174775.js.map",
-    "453.8701dc61.chunk.js.map": "/CADU_Frontend/static/js/453.8701dc61.chunk.js.map"
+    "main.css": "/static/css/main.845a687b.css",
+    "main.js": "/static/js/main.f89bf4b5.js",
+    "static/js/453.8701dc61.chunk.js": "/static/js/453.8701dc61.chunk.js",
+    "index.html": "/index.html",
+    "main.845a687b.css.map": "/static/css/main.845a687b.css.map",
+    "main.f89bf4b5.js.map": "/static/js/main.f89bf4b5.js.map",
+    "453.8701dc61.chunk.js.map": "/static/js/453.8701dc61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.845a687b.css",
-    "static/js/main.e6174775.js"
+    "static/js/main.f89bf4b5.js"
   ]
 }
